@@ -185,8 +185,8 @@ layers:
   - {t: ▽, type: trans}
   - SCROLL
   - '&mkp MB1'
-  - SCROLL UP
-  - SCROLL DOWN
+  - PAGE UP
+  - PAGE DOWN
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - Ctl+C

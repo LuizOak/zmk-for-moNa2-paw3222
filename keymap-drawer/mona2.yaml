@@ -185,8 +185,8 @@ layers:
   - {t: ▽, type: trans}
   - SCROLL
   - '&mkp MB1'
-  - '&mkp MB3'
-  - '&mkp MB2'
+  - SCROLL UP
+  - SCROLL DOWN
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - Ctl+C

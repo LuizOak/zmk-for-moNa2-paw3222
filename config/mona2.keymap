@@ -137,10 +137,10 @@
 
         NAV {
             bindings = <
-&kp ESCAPE    &kp NUMBER_2  &kp NUMBER_3       &kp PRINTSCREEN    &kp K_CALCULATOR                      &kp NUMBER_6       &kp N7         &kp N8        &kp DELETE  &kp SPACE
-&kp TAB       &kp LEFT_ALT  &kp LEFT_SHIFT     &kp LEFT_CONTROL   &kp CAPSLOCK                  &trans  &kp LEFT           &kp DOWN       &kp UP_ARROW  &kp RIGHT   &kp BACKSPACE
-&kp LEFT_WIN  &kp K_MUTE    &kp K_VOLUME_DOWN  &kp K_VOLUME_DOWN  &kp K_PLAY_PAUSE  &trans      &trans  &kp LC(LS(RIGHT))  &kp PAGE_DOWN  &kp PAGE_UP   &kp END     &kp ENTER
-&trans        &trans        &trans             &trans             &trans            &trans      &trans  &trans                                                      &trans
+&kp ESCAPE    &kp NUMBER_2  &kp NUMBER_3       &kp PRINTSCREEN    &kp K_CALCULATOR                      &kp NUMBER_6      &kp N7         &kp N8        &kp DELETE         &kp SPACE
+&kp TAB       &kp LEFT_ALT  &kp LEFT_SHIFT     &kp LEFT_CONTROL   &kp CAPSLOCK                  &trans  &kp LEFT          &kp DOWN       &kp UP_ARROW  &kp RIGHT          &kp BACKSPACE
+&kp LEFT_WIN  &kp K_MUTE    &kp K_VOLUME_DOWN  &kp K_VOLUME_DOWN  &kp K_PLAY_PAUSE  &trans      &trans  &kp LC(LG(LEFT))  &kp PAGE_DOWN  &kp PAGE_UP   &kp LG(LC(RIGHT))  &kp ENTER
+&trans        &trans        &trans             &trans             &trans            &trans      &trans  &trans                                                            &trans
             >;
 
             sensor-bindings = <&scroll_up_down>;

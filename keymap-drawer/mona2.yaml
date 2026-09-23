@@ -101,14 +101,14 @@ layers:
   - LEFT ALT
   - LEFT SHIFT
   - LEFT CONTROL
-  - F12
+  - F5
   - /
   - '0'
   - '4'
   - '5'
   - '6'
   - DELETE
-  - F1
+  - LEFT SHIFT
   - F2
   - F3
   - F4
@@ -121,7 +121,7 @@ layers:
   - '3'
   - ENTER
   - F11
-  - {t: ▽, type: trans}
+  - F12
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {type: held}
@@ -302,8 +302,6 @@ layers:
   - {type: held}
   - {t: ▽, type: trans}
 combos:
-- p: [39, 24, 10]
-  k: '&pastecommaspace'
 - p: [10, 11, 12, 13, 17]
   k: '&shortpass'
 - p: [12, 13, 10, 11, 17, 18, 19, 20]

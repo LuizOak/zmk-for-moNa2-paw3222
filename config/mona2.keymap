@@ -14,11 +14,6 @@
     combos {
         compatible = "zmk,combos";
 
-        combo1 {
-            bindings = <&pastecommaspace>;
-            key-positions = <39 24 10>;
-        };
-
         combo2 {
             bindings = <&shortpass>;
             key-positions = <10 11 12 13 17>;
@@ -142,10 +137,10 @@
 
         NUM {
             bindings = <
-&kp F6   &kp F7        &kp F8          &kp F9            &kp F10                         &kp COMMA  &kp N7        &kp N8        &kp N9        &kp PERIOD
-&kp TAB  &kp LEFT_ALT  &kp LEFT_SHIFT  &kp LEFT_CONTROL  &kp F12              &kp SLASH  &kp N0     &kp NUMBER_4  &kp NUMBER_5  &kp NUMBER_6  &kp DELETE
-&kp F1   &kp F2        &kp F3          &kp F4            &kp F5   &trans      &kp MINUS  &kp EQUAL  &kp NUMBER_1  &kp NUMBER_2  &kp NUMBER_3  &kp ENTER
-&kp F11  &trans        &trans          &trans            &trans   &trans      &trans     &trans                                               &trans
+&kp F6          &kp F7        &kp F8          &kp F9            &kp F10                         &kp COMMA  &kp N7        &kp N8        &kp N9        &kp PERIOD
+&kp TAB         &kp LEFT_ALT  &kp LEFT_SHIFT  &kp LEFT_CONTROL  &kp F5               &kp SLASH  &kp N0     &kp NUMBER_4  &kp NUMBER_5  &kp NUMBER_6  &kp DELETE
+&kp LEFT_SHIFT  &kp F2        &kp F3          &kp F4            &kp F5   &trans      &kp MINUS  &kp EQUAL  &kp NUMBER_1  &kp NUMBER_2  &kp NUMBER_3  &kp ENTER
+&kp F11         &kp F12       &trans          &trans            &trans   &trans      &trans     &trans                                               &trans
             >;
 
             sensor-bindings = <&scroll_up_down>;

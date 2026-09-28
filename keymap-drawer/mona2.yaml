@@ -1,7 +1,7 @@
 layout: {zmk_keyboard: mona2}
 layers:
   BASE:
-  - Q
+  - {t: Q, h: ESCAPE}
   - W
   - E
   - R
@@ -22,7 +22,7 @@ layers:
   - K
   - L
   - BACKSPACE
-  - Z
+  - {t: Z, h: LEFT SHIFT}
   - X
   - C
   - V
@@ -33,13 +33,13 @@ layers:
   - M
   - ','
   - .
-  - ENTER
+  - {t: ENTER, h: LEFT SHIFT}
   - TAB
   - TAB
   - LEFT GUI
   - MOUSE
   - {t: SPACE, h: NUM}
-  - LEFT SHIFT
+  - {t: CAPSLOCK, h: LEFT SHIFT}
   - RIGHT CONTROL
   - {t: SPACE, h: NAV}
   - LEFT GUI
@@ -182,7 +182,7 @@ layers:
   - {t: BT, h: '1'}
   - {t: BT, h: '2'}
   - {t: BT, h: '3'}
-  - {t: ▽, type: trans}
+  - {t: BT, h: '4'}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
@@ -229,7 +229,7 @@ layers:
   - {type: held}
   - {type: held alternate}
   - {type: held alternate}
-  - {t: ▽, type: trans}
+  - LEFT CONTROL
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}

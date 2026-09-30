@@ -25,13 +25,8 @@
         };
 
         combo4 {
-            bindings = <&kp RIGHT_PARENTHESIS>;
-            key-positions = <18 17>;
-        };
-
-        combo5 {
-            bindings = <&kp LEFT_BRACE>;
-            key-positions = <23 24>;
+            bindings = <&mo 5>;
+            key-positions = <18 19>;
         };
 
         combo6 {
@@ -106,6 +101,13 @@
             bindings = <&none &kp LS(N) &kp U &kp M &kp E &kp N &kp O &kp R &kp I &kp A &kp N &kp O &kp S &kp N1 &kp EXCL &kp N1 &kp N2 &kp N3 &kp N4 &kp N5 &kp N6 &kp N7 &kp N8 &kp N9>;
             label = "LONGPASS";
         };
+
+        EXCremovedup: EXCremovedup {
+            compatible = "zmk,behavior-macro";
+            #binding-cells = <0>;
+            bindings = <&none &kt LEFT_ALT &kp A &kp M>;
+            label = "EXCREMOVEDUP";
+        };
     };
 
     keymap {
@@ -149,10 +151,10 @@
 
         MOUSE {
             bindings = <
-&trans     &trans     &trans       &trans         &trans                      &trans         &trans    &trans    &trans    &trans
-&mo 5      &mkp MB1   &kp PAGE_UP  &kp PAGE_DOWN  &trans              &trans  &kp LC(C)      &mkp MB1  &mkp MB3  &mkp MB2  &trans
-&kp LC(A)  &kp K_CUT  &kp K_COPY   &kp K_PASTE    &trans  &trans      &trans  &kp LS(LC(V))  &mkp MB4  &trans    &mkp MB5  &trans
-&trans     &trans     &trans       &trans         &trans  &trans      &trans  &trans                                       &trans
+&trans     &trans     &trans       &trans         &trans                      &trans         &trans    &EXCremovedup  &trans    &trans
+&mo 5      &mkp MB1   &kp PAGE_UP  &kp PAGE_DOWN  &trans              &trans  &kp LC(C)      &mkp MB1  &mkp MB3       &mkp MB2  &mo 5
+&kp LC(A)  &kp K_CUT  &kp K_COPY   &kp K_PASTE    &trans  &trans      &trans  &kp LS(LC(V))  &mkp MB4  &trans         &mkp MB5  &trans
+&trans     &trans     &trans       &trans         &trans  &trans      &trans  &trans                                            &trans
             >;
 
             sensor-bindings = <&scroll_up_down>;
@@ -173,10 +175,10 @@
 
         SCROLL {
             bindings = <
-&trans  &trans  &trans  &trans            &trans                      &trans  &trans  &trans  &trans  &trans
-&trans  &trans  &trans  &kp LEFT_CONTROL  &trans              &trans  &trans  &trans  &trans  &trans  &trans
-&trans  &trans  &trans  &trans            &trans  &trans      &trans  &trans  &trans  &trans  &trans  &trans
-&trans  &trans  &trans  &trans            &trans  &trans      &trans  &trans                          &trans
+&trans  &trans  &trans  &trans            &trans                      &trans  &trans             &trans  &trans  &trans
+&trans  &trans  &trans  &kp LEFT_CONTROL  &trans              &trans  &trans  &kp RIGHT_CONTROL  &trans  &trans  &trans
+&trans  &trans  &trans  &trans            &trans  &trans      &trans  &trans  &trans             &trans  &trans  &trans
+&trans  &trans  &trans  &trans            &trans  &trans      &trans  &trans                                     &trans
             >;
 
             sensor-bindings = <&scroll_up_down>;

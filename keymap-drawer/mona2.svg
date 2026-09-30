@@ -332,34 +332,31 @@ path.combo {
 <text x="378" y="98" class="combo tap"><tspan style="font-size: 78%">&amp;longpass</tspan></text>
 </g>
 <g class="combo combopos-2">
-<rect rx="6" ry="6" x="574" y="75" width="28" height="26" class="combo"/>
-<text x="588" y="88" class="combo tap">)</text>
-</g>
+<rect rx="6" ry="6" x="631" y="78" width="28" height="26" class="combo"/>
+<a href="#SCROLL">
+<text x="645" y="91" class="combo tap layer-activator">SCROLL</text>
+</a></g>
 <g class="combo combopos-3">
-<rect rx="6" ry="6" x="154" y="131" width="28" height="26" class="combo"/>
-<text x="168" y="144" class="combo tap">{</text>
-</g>
-<g class="combo combopos-4">
 <rect rx="6" ry="6" x="574" y="131" width="28" height="26" class="combo"/>
 <text x="588" y="144" class="combo tap">}</text>
 </g>
-<g class="combo combopos-5">
+<g class="combo combopos-4">
 <path d="M378,43 l-107,0" class="combo"/>
 <path d="M378,43 l107,0" class="combo"/>
 <rect rx="6" ry="6" x="364" y="30" width="28" height="26" class="combo"/>
 <text x="378" y="43" class="combo tap">\</text>
 </g>
-<g class="combo combopos-6">
+<g class="combo combopos-5">
 <path d="M350,106 l-79,-5" class="combo"/>
 <path d="M350,106 l79,5" class="combo"/>
 <rect rx="6" ry="6" x="336" y="93" width="28" height="26" class="combo"/>
 <text x="350" y="106" class="combo tap">|</text>
 </g>
-<g class="combo combopos-7">
+<g class="combo combopos-6">
 <rect rx="6" ry="6" x="687" y="95" width="28" height="26" class="combo"/>
 <text x="701" y="108" class="combo tap">ENTER</text>
 </g>
-<g class="combo combopos-8">
+<g class="combo combopos-7">
 <rect rx="6" ry="6" x="98" y="78" width="28" height="26" class="combo"/>
 <a href="#SCROLL">
 <text x="112" y="91" class="combo tap layer-activator">SCROLL</text>
@@ -577,34 +574,31 @@ path.combo {
 <text x="378" y="98" class="combo tap"><tspan style="font-size: 78%">&amp;longpass</tspan></text>
 </g>
 <g class="combo combopos-2">
-<rect rx="6" ry="6" x="574" y="75" width="28" height="26" class="combo"/>
-<text x="588" y="88" class="combo tap">)</text>
-</g>
+<rect rx="6" ry="6" x="631" y="78" width="28" height="26" class="combo"/>
+<a href="#SCROLL">
+<text x="645" y="91" class="combo tap layer-activator">SCROLL</text>
+</a></g>
 <g class="combo combopos-3">
-<rect rx="6" ry="6" x="154" y="131" width="28" height="26" class="combo"/>
-<text x="168" y="144" class="combo tap">{</text>
-</g>
-<g class="combo combopos-4">
 <rect rx="6" ry="6" x="574" y="131" width="28" height="26" class="combo"/>
 <text x="588" y="144" class="combo tap">}</text>
 </g>
-<g class="combo combopos-5">
+<g class="combo combopos-4">
 <path d="M378,43 l-107,0" class="combo"/>
 <path d="M378,43 l107,0" class="combo"/>
 <rect rx="6" ry="6" x="364" y="30" width="28" height="26" class="combo"/>
 <text x="378" y="43" class="combo tap">\</text>
 </g>
-<g class="combo combopos-6">
+<g class="combo combopos-5">
 <path d="M350,106 l-79,-5" class="combo"/>
 <path d="M350,106 l79,5" class="combo"/>
 <rect rx="6" ry="6" x="336" y="93" width="28" height="26" class="combo"/>
 <text x="350" y="106" class="combo tap">|</text>
 </g>
-<g class="combo combopos-7">
+<g class="combo combopos-6">
 <rect rx="6" ry="6" x="687" y="95" width="28" height="26" class="combo"/>
 <text x="701" y="108" class="combo tap">ENTER</text>
 </g>
-<g class="combo combopos-8">
+<g class="combo combopos-7">
 <rect rx="6" ry="6" x="98" y="78" width="28" height="26" class="combo"/>
 <a href="#SCROLL">
 <text x="112" y="91" class="combo tap layer-activator">SCROLL</text>
@@ -810,34 +804,31 @@ path.combo {
 <text x="378" y="98" class="combo tap"><tspan style="font-size: 78%">&amp;longpass</tspan></text>
 </g>
 <g class="combo combopos-2">
-<rect rx="6" ry="6" x="574" y="75" width="28" height="26" class="combo"/>
-<text x="588" y="88" class="combo tap">)</text>
-</g>
+<rect rx="6" ry="6" x="631" y="78" width="28" height="26" class="combo"/>
+<a href="#SCROLL">
+<text x="645" y="91" class="combo tap layer-activator">SCROLL</text>
+</a></g>
 <g class="combo combopos-3">
-<rect rx="6" ry="6" x="154" y="131" width="28" height="26" class="combo"/>
-<text x="168" y="144" class="combo tap">{</text>
-</g>
-<g class="combo combopos-4">
 <rect rx="6" ry="6" x="574" y="131" width="28" height="26" class="combo"/>
 <text x="588" y="144" class="combo tap">}</text>
 </g>
-<g class="combo combopos-5">
+<g class="combo combopos-4">
 <path d="M378,43 l-107,0" class="combo"/>
 <path d="M378,43 l107,0" class="combo"/>
 <rect rx="6" ry="6" x="364" y="30" width="28" height="26" class="combo"/>
 <text x="378" y="43" class="combo tap">\</text>
 </g>
-<g class="combo combopos-6">
+<g class="combo combopos-5">
 <path d="M350,106 l-79,-5" class="combo"/>
 <path d="M350,106 l79,5" class="combo"/>
 <rect rx="6" ry="6" x="336" y="93" width="28" height="26" class="combo"/>
 <text x="350" y="106" class="combo tap">|</text>
 </g>
-<g class="combo combopos-7">
+<g class="combo combopos-6">
 <rect rx="6" ry="6" x="687" y="95" width="28" height="26" class="combo"/>
 <text x="701" y="108" class="combo tap">ENTER</text>
 </g>
-<g class="combo combopos-8">
+<g class="combo combopos-7">
 <rect rx="6" ry="6" x="98" y="78" width="28" height="26" class="combo"/>
 <a href="#SCROLL">
 <text x="112" y="91" class="combo tap layer-activator">SCROLL</text>
@@ -875,9 +866,9 @@ path.combo {
 <rect rx="6" ry="6" x="-26" y="-26" width="52" height="52" class="key trans"/>
 <text x="0" y="0" class="key trans tap">▽</text>
 </g>
-<g transform="translate(617, 28)" class="key trans keypos-7">
-<rect rx="6" ry="6" x="-26" y="-26" width="52" height="52" class="key trans"/>
-<text x="0" y="0" class="key trans tap">▽</text>
+<g transform="translate(617, 28)" class="key keypos-7">
+<rect rx="6" ry="6" x="-26" y="-26" width="52" height="52" class="key"/>
+<text x="0" y="0" class="key tap"><tspan style="font-size: 64%">&amp;EXCremove…</tspan></text>
 </g>
 <g transform="translate(673, 42)" class="key trans keypos-8">
 <rect rx="6" ry="6" x="-26" y="-26" width="52" height="52" class="key trans"/>
@@ -940,10 +931,11 @@ path.combo {
 <tspan x="0" dy="-0.6em">&amp;mkp</tspan><tspan x="0" dy="1.2em">MB2</tspan>
 </text>
 </g>
-<g transform="translate(729, 119)" class="key trans keypos-20">
-<rect rx="6" ry="6" x="-26" y="-26" width="52" height="52" class="key trans"/>
-<text x="0" y="0" class="key trans tap">▽</text>
-</g>
+<g transform="translate(729, 119)" class="key keypos-20">
+<rect rx="6" ry="6" x="-26" y="-26" width="52" height="52" class="key"/>
+<a href="#SCROLL">
+<text x="0" y="0" class="key tap layer-activator">SCROLL</text>
+</a></g>
 <g transform="translate(28, 175)" class="key keypos-21">
 <rect rx="6" ry="6" x="-26" y="-26" width="52" height="52" class="key"/>
 <text x="0" y="0" class="key tap">Ctl+A</text>
@@ -1054,34 +1046,31 @@ path.combo {
 <text x="378" y="98" class="combo tap"><tspan style="font-size: 78%">&amp;longpass</tspan></text>
 </g>
 <g class="combo combopos-2">
-<rect rx="6" ry="6" x="574" y="75" width="28" height="26" class="combo"/>
-<text x="588" y="88" class="combo tap">)</text>
-</g>
+<rect rx="6" ry="6" x="631" y="78" width="28" height="26" class="combo"/>
+<a href="#SCROLL">
+<text x="645" y="91" class="combo tap layer-activator">SCROLL</text>
+</a></g>
 <g class="combo combopos-3">
-<rect rx="6" ry="6" x="154" y="131" width="28" height="26" class="combo"/>
-<text x="168" y="144" class="combo tap">{</text>
-</g>
-<g class="combo combopos-4">
 <rect rx="6" ry="6" x="574" y="131" width="28" height="26" class="combo"/>
 <text x="588" y="144" class="combo tap">}</text>
 </g>
-<g class="combo combopos-5">
+<g class="combo combopos-4">
 <path d="M378,43 l-107,0" class="combo"/>
 <path d="M378,43 l107,0" class="combo"/>
 <rect rx="6" ry="6" x="364" y="30" width="28" height="26" class="combo"/>
 <text x="378" y="43" class="combo tap">\</text>
 </g>
-<g class="combo combopos-6">
+<g class="combo combopos-5">
 <path d="M350,106 l-79,-5" class="combo"/>
 <path d="M350,106 l79,5" class="combo"/>
 <rect rx="6" ry="6" x="336" y="93" width="28" height="26" class="combo"/>
 <text x="350" y="106" class="combo tap">|</text>
 </g>
-<g class="combo combopos-7">
+<g class="combo combopos-6">
 <rect rx="6" ry="6" x="687" y="95" width="28" height="26" class="combo"/>
 <text x="701" y="108" class="combo tap">ENTER</text>
 </g>
-<g class="combo combopos-8">
+<g class="combo combopos-7">
 <rect rx="6" ry="6" x="98" y="78" width="28" height="26" class="combo"/>
 <a href="#SCROLL">
 <text x="112" y="91" class="combo tap layer-activator">SCROLL</text>
@@ -1293,34 +1282,31 @@ path.combo {
 <text x="378" y="98" class="combo tap"><tspan style="font-size: 78%">&amp;longpass</tspan></text>
 </g>
 <g class="combo combopos-2">
-<rect rx="6" ry="6" x="574" y="75" width="28" height="26" class="combo"/>
-<text x="588" y="88" class="combo tap">)</text>
-</g>
+<rect rx="6" ry="6" x="631" y="78" width="28" height="26" class="combo"/>
+<a href="#SCROLL">
+<text x="645" y="91" class="combo tap layer-activator">SCROLL</text>
+</a></g>
 <g class="combo combopos-3">
-<rect rx="6" ry="6" x="154" y="131" width="28" height="26" class="combo"/>
-<text x="168" y="144" class="combo tap">{</text>
-</g>
-<g class="combo combopos-4">
 <rect rx="6" ry="6" x="574" y="131" width="28" height="26" class="combo"/>
 <text x="588" y="144" class="combo tap">}</text>
 </g>
-<g class="combo combopos-5">
+<g class="combo combopos-4">
 <path d="M378,43 l-107,0" class="combo"/>
 <path d="M378,43 l107,0" class="combo"/>
 <rect rx="6" ry="6" x="364" y="30" width="28" height="26" class="combo"/>
 <text x="378" y="43" class="combo tap">\</text>
 </g>
-<g class="combo combopos-6">
+<g class="combo combopos-5">
 <path d="M350,106 l-79,-5" class="combo"/>
 <path d="M350,106 l79,5" class="combo"/>
 <rect rx="6" ry="6" x="336" y="93" width="28" height="26" class="combo"/>
 <text x="350" y="106" class="combo tap">|</text>
 </g>
-<g class="combo combopos-7">
+<g class="combo combopos-6">
 <rect rx="6" ry="6" x="687" y="95" width="28" height="26" class="combo"/>
 <text x="701" y="108" class="combo tap">ENTER</text>
 </g>
-<g class="combo combopos-8">
+<g class="combo combopos-7">
 <rect rx="6" ry="6" x="98" y="78" width="28" height="26" class="combo"/>
 <a href="#SCROLL">
 <text x="112" y="91" class="combo tap layer-activator">SCROLL</text>
@@ -1397,21 +1383,20 @@ path.combo {
 <rect rx="6" ry="6" x="-26" y="-26" width="52" height="52" class="key trans"/>
 <text x="0" y="0" class="key trans tap">▽</text>
 </g>
-<g transform="translate(560, 92)" class="key trans keypos-17">
-<rect rx="6" ry="6" x="-26" y="-26" width="52" height="52" class="key trans"/>
-<text x="0" y="0" class="key trans tap">▽</text>
+<g transform="translate(560, 92)" class="key keypos-17">
+<rect rx="6" ry="6" x="-26" y="-26" width="52" height="52" class="key"/>
+<text x="0" y="0" class="key tap">
+<tspan x="0" dy="-0.6em">RIGHT</tspan><tspan x="0" dy="1.2em">CONTROL</tspan>
+</text>
 </g>
-<g transform="translate(617, 84)" class="key trans keypos-18">
-<rect rx="6" ry="6" x="-26" y="-26" width="52" height="52" class="key trans"/>
-<text x="0" y="0" class="key trans tap">▽</text>
+<g transform="translate(617, 84)" class="key held alternate keypos-18">
+<rect rx="6" ry="6" x="-26" y="-26" width="52" height="52" class="key held alternate"/>
 </g>
-<g transform="translate(673, 98)" class="key trans keypos-19">
-<rect rx="6" ry="6" x="-26" y="-26" width="52" height="52" class="key trans"/>
-<text x="0" y="0" class="key trans tap">▽</text>
+<g transform="translate(673, 98)" class="key held alternate keypos-19">
+<rect rx="6" ry="6" x="-26" y="-26" width="52" height="52" class="key held alternate"/>
 </g>
-<g transform="translate(729, 119)" class="key trans keypos-20">
-<rect rx="6" ry="6" x="-26" y="-26" width="52" height="52" class="key trans"/>
-<text x="0" y="0" class="key trans tap">▽</text>
+<g transform="translate(729, 119)" class="key held alternate keypos-20">
+<rect rx="6" ry="6" x="-26" y="-26" width="52" height="52" class="key held alternate"/>
 </g>
 <g transform="translate(28, 175)" class="key trans keypos-21">
 <rect rx="6" ry="6" x="-26" y="-26" width="52" height="52" class="key trans"/>
@@ -1517,34 +1502,31 @@ path.combo {
 <text x="378" y="98" class="combo tap"><tspan style="font-size: 78%">&amp;longpass</tspan></text>
 </g>
 <g class="combo combopos-2">
-<rect rx="6" ry="6" x="574" y="75" width="28" height="26" class="combo"/>
-<text x="588" y="88" class="combo tap">)</text>
-</g>
+<rect rx="6" ry="6" x="631" y="78" width="28" height="26" class="combo"/>
+<a href="#SCROLL">
+<text x="645" y="91" class="combo tap layer-activator">SCROLL</text>
+</a></g>
 <g class="combo combopos-3">
-<rect rx="6" ry="6" x="154" y="131" width="28" height="26" class="combo"/>
-<text x="168" y="144" class="combo tap">{</text>
-</g>
-<g class="combo combopos-4">
 <rect rx="6" ry="6" x="574" y="131" width="28" height="26" class="combo"/>
 <text x="588" y="144" class="combo tap">}</text>
 </g>
-<g class="combo combopos-5">
+<g class="combo combopos-4">
 <path d="M378,43 l-107,0" class="combo"/>
 <path d="M378,43 l107,0" class="combo"/>
 <rect rx="6" ry="6" x="364" y="30" width="28" height="26" class="combo"/>
 <text x="378" y="43" class="combo tap">\</text>
 </g>
-<g class="combo combopos-6">
+<g class="combo combopos-5">
 <path d="M350,106 l-79,-5" class="combo"/>
 <path d="M350,106 l79,5" class="combo"/>
 <rect rx="6" ry="6" x="336" y="93" width="28" height="26" class="combo"/>
 <text x="350" y="106" class="combo tap">|</text>
 </g>
-<g class="combo combopos-7">
+<g class="combo combopos-6">
 <rect rx="6" ry="6" x="687" y="95" width="28" height="26" class="combo"/>
 <text x="701" y="108" class="combo tap">ENTER</text>
 </g>
-<g class="combo combopos-8">
+<g class="combo combopos-7">
 <rect rx="6" ry="6" x="98" y="78" width="28" height="26" class="combo"/>
 <a href="#SCROLL">
 <text x="112" y="91" class="combo tap layer-activator">SCROLL</text>
@@ -1747,34 +1729,31 @@ path.combo {
 <text x="378" y="98" class="combo tap"><tspan style="font-size: 78%">&amp;longpass</tspan></text>
 </g>
 <g class="combo combopos-2">
-<rect rx="6" ry="6" x="574" y="75" width="28" height="26" class="combo"/>
-<text x="588" y="88" class="combo tap">)</text>
-</g>
+<rect rx="6" ry="6" x="631" y="78" width="28" height="26" class="combo"/>
+<a href="#SCROLL">
+<text x="645" y="91" class="combo tap layer-activator">SCROLL</text>
+</a></g>
 <g class="combo combopos-3">
-<rect rx="6" ry="6" x="154" y="131" width="28" height="26" class="combo"/>
-<text x="168" y="144" class="combo tap">{</text>
-</g>
-<g class="combo combopos-4">
 <rect rx="6" ry="6" x="574" y="131" width="28" height="26" class="combo"/>
 <text x="588" y="144" class="combo tap">}</text>
 </g>
-<g class="combo combopos-5">
+<g class="combo combopos-4">
 <path d="M378,43 l-107,0" class="combo"/>
 <path d="M378,43 l107,0" class="combo"/>
 <rect rx="6" ry="6" x="364" y="30" width="28" height="26" class="combo"/>
 <text x="378" y="43" class="combo tap">\</text>
 </g>
-<g class="combo combopos-6">
+<g class="combo combopos-5">
 <path d="M350,106 l-79,-5" class="combo"/>
 <path d="M350,106 l79,5" class="combo"/>
 <rect rx="6" ry="6" x="336" y="93" width="28" height="26" class="combo"/>
 <text x="350" y="106" class="combo tap">|</text>
 </g>
-<g class="combo combopos-7">
+<g class="combo combopos-6">
 <rect rx="6" ry="6" x="687" y="95" width="28" height="26" class="combo"/>
 <text x="701" y="108" class="combo tap">ENTER</text>
 </g>
-<g class="combo combopos-8">
+<g class="combo combopos-7">
 <rect rx="6" ry="6" x="98" y="78" width="28" height="26" class="combo"/>
 <a href="#SCROLL">
 <text x="112" y="91" class="combo tap layer-activator">SCROLL</text>

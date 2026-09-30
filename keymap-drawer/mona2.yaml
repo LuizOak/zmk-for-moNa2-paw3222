@@ -137,7 +137,7 @@ layers:
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
+  - '&EXCremovedup'
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - SCROLL
@@ -150,7 +150,7 @@ layers:
   - '&mkp MB1'
   - '&mkp MB3'
   - '&mkp MB2'
-  - {t: ▽, type: trans}
+  - SCROLL
   - Ctl+A
   - CUT
   - COPY
@@ -233,10 +233,10 @@ layers:
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
+  - RIGHT CONTROL
+  - {type: held alternate}
+  - {type: held alternate}
+  - {type: held alternate}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
@@ -306,10 +306,8 @@ combos:
   k: '&shortpass'
 - p: [12, 13, 10, 11, 17, 18, 19, 20]
   k: '&longpass'
-- p: [18, 17]
-  k: )
-- p: [23, 24]
-  k: '{'
+- p: [18, 19]
+  k: SCROLL
 - p: [29, 30]
   k: '}'
 - p: [4, 5]

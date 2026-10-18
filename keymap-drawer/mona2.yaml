@@ -39,7 +39,7 @@ layers:
   - LEFT GUI
   - MOUSE
   - {t: SPACE, h: NUM}
-  - {t: CAPSLOCK, h: LEFT SHIFT}
+  - {t: T, h: LEFT SHIFT}
   - RIGHT CONTROL
   - {t: SPACE, h: NAV}
   - LEFT GUI
